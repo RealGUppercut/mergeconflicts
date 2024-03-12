@@ -1,4 +1,4 @@
 # mergeconflicts
 
-Green in the best colour.
-Frogs are the best animal.
+Red in the best colour.
+Cats are the best animal.
